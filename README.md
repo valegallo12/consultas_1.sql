@@ -6,6 +6,6 @@
 
 `selec * from usuario`
 
-2. visualizar solamenta la identificacion del usuario.
+2. visualizar solamente la identificacion del usuario.
 
 `selec identificacion from usuario`
